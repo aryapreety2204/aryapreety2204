@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Preety Arya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6CJIE6Pdpwg39QOCIlFe34rfVw204SxqA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryapreety2204&label=Profile%20views&color=0e75b6&style=flat" alt="aryapreety2204" /> </p>
 
